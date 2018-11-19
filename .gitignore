@@ -1,1 +1,4 @@
 /vendor/
+/system/
+/tests/
+/user_guide/
