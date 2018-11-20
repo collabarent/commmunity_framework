@@ -2,3 +2,10 @@
 /system/
 /tests/
 /user_guide/
+/application/cache/
+/application/config/
+/application/helpers/index.html
+/application/hooks/index.html
+/application/index.html
+/application/language/index.html
+/application/language/english/index.html
